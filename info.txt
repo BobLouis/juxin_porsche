@@ -1,0 +1,32 @@
+id:1
+name:"P'8928 – Turbonite"
+description:"Exclusive sunglasses from Porsche Design with innovative interchangeable lens mechanism. Modern squared aviator shape with exclusive quick release and lightweight frame made of 100% titanium."
+
+id:2
+name:"P'8478 – Turbo No.1"
+description:"Exclusive unisex sunglasses from Porsche Design with innovative interchangeable lens mechanism. Extremely light titanium and scratch- and impact-resistant polycarbonate lenses."
+
+id:3
+name:"P´8952 Iconic Curved"
+description:"Exclusive sunglasses for men from Porsche Design. Inspired by the Porsche 911 Turbo."
+
+id:4
+name:"P´8970"
+description:"Unique men's sunglasses from Porsche Design with a robust stainless steel frame."
+
+id:5
+name:"P´8949"
+description:"Striking sunglasses for men from Porsche Design. Made of stainless steel and high-tech polyamide RXP®."
+
+id:6
+name:"P´8949"
+description:"Striking sunglasses for men from Porsche Design. Made of stainless steel and high-tech polyamide RXP®."
+
+id:7
+name:"P´8970"
+description:"Unique men's sunglasses from Porsche Design with a robust stainless steel frame."
+
+id:8
+name:"P´8970"
+description:"Unique men's sunglasses from Porsche Design with a robust stainless steel frame."
+
